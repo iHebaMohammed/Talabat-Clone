@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repos\\Projects\\Talabat-Clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\extentions\\applicationservicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\extentions\\applicationservicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3723CB6-E4F3-4078-8CCE-926021BDD68D}|Talabat.Service\\Talabat.Service.csproj|e:\\repos\\projects\\talabat-clone\\talabat.service\\services\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3723CB6-E4F3-4078-8CCE-926021BDD68D}|Talabat.Service\\Talabat.Service.csproj|solutionrelative:talabat.service\\services\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77094ED8-C990-4EF6-926B-0B191A7D6BE6}|Talabat.Repository\\Talabat.Repository.csproj|e:\\repos\\projects\\talabat-clone\\talabat.repository\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77094ED8-C990-4EF6-926B-0B191A7D6BE6}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25A32F5-ABD5-4AA4-BF62-734EE433F0B6}|Talabat.Core\\Talabat.Core.csproj|e:\\repos\\projects\\talabat-clone\\talabat.core\\iservices\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25A32F5-ABD5-4AA4-BF62-734EE433F0B6}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\iservices\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3723CB6-E4F3-4078-8CCE-926021BDD68D}|Talabat.Service\\Talabat.Service.csproj|e:\\repos\\projects\\talabat-clone\\talabat.service\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3723CB6-E4F3-4078-8CCE-926021BDD68D}|Talabat.Service\\Talabat.Service.csproj|solutionrelative:talabat.service\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25A32F5-ABD5-4AA4-BF62-734EE433F0B6}|Talabat.Core\\Talabat.Core.csproj|e:\\repos\\projects\\talabat-clone\\talabat.core\\iservices\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25A32F5-ABD5-4AA4-BF62-734EE433F0B6}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\iservices\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|e:\\repos\\projects\\talabat-clone\\talabat.apis\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B31A28-4334-4945-A18C-80DAB803B950}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 994,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\OrderController.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:33:40.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\BasketController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:33:33.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\BaseApiController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:33:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwFAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:32:50.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CachedAttribute.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Helpers\\CachedAttribute.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Helpers\\CachedAttribute.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Helpers\\CachedAttribute.cs*",
+              "RelativeToolTip": "Talabat.APIs\\Helpers\\CachedAttribute.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:36:24.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:33:44.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\PaymentController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:36:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationServicesExtentions.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Extentions\\ApplicationServicesExtentions.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Extentions\\ApplicationServicesExtentions.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Extentions\\ApplicationServicesExtentions.cs",
+              "RelativeToolTip": "Talabat.APIs\\Extentions\\ApplicationServicesExtentions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:46:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Repository\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Repositories\\BasketRepository.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Repository\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "Talabat.Repository\\Repositories\\BasketRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:51:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseCacheService.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Service\\Services\\ResponseCacheService.cs",
+              "RelativeDocumentMoniker": "Talabat.Service\\Services\\ResponseCacheService.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Service\\Services\\ResponseCacheService.cs",
+              "RelativeToolTip": "Talabat.Service\\Services\\ResponseCacheService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:24:38.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IResponseCacheService.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Core\\IServices\\IResponseCacheService.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\IServices\\IResponseCacheService.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Core\\IServices\\IResponseCacheService.cs",
+              "RelativeToolTip": "Talabat.Core\\IServices\\IResponseCacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:24:00.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Core\\IServices\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\IServices\\IPaymentService.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Core\\IServices\\IPaymentService.cs",
+              "RelativeToolTip": "Talabat.Core\\IServices\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:52:16.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Service\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Talabat.Service\\Services\\PaymentService.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.Service\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Talabat.Service\\Services\\PaymentService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwG0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:48:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\ErrorController.cs",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:44:37.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "Talabat.APIs\\appsettings.json",
+              "ToolTip": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.APIs\\appsettings.json",
+              "RelativeToolTip": "Talabat.APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T14:38:53.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

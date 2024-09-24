@@ -1,0 +1,15 @@
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\bin\Debug\net8.0\Talabat.Service.deps.json
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\bin\Debug\net8.0\Talabat.Service.dll
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\bin\Debug\net8.0\Talabat.Service.pdb
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfo.cs
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\Talabat.Service.dll
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\refint\Talabat.Service.dll
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\Talabat.Service.pdb
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\ref\Talabat.Service.dll
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\bin\Debug\net8.0\Talabat.Core.dll
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\bin\Debug\net8.0\Talabat.Core.pdb
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\Repos\Projects\Talabat-Clone\Talabat.Service\obj\Debug\net8.0\Talabat..89B18B2E.Up2Date
