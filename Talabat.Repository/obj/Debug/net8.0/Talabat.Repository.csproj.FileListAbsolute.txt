@@ -13,3 +13,4 @@ E:\Repos\Projects\Talabat-Clone\Talabat.Repository\obj\Debug\net8.0\Talabat.Repo
 E:\Repos\Projects\Talabat-Clone\Talabat.Repository\obj\Debug\net8.0\refint\Talabat.Repository.dll
 E:\Repos\Projects\Talabat-Clone\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.pdb
 E:\Repos\Projects\Talabat-Clone\Talabat.Repository\obj\Debug\net8.0\ref\Talabat.Repository.dll
+E:\Repos\Projects\Talabat-Clone\Talabat.Repository\obj\Debug\net8.0\Talabat.Repository.sourcelink.json

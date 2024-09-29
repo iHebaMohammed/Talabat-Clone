@@ -154,3 +154,4 @@ E:\Repos\Projects\Talabat-Clone\Talabat.APIs\bin\Debug\net8.0\Talabat.Service.dl
 E:\Repos\Projects\Talabat-Clone\Talabat.APIs\bin\Debug\net8.0\Talabat.Service.pdb
 E:\Repos\Projects\Talabat-Clone\Talabat.APIs\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\Repos\Projects\Talabat-Clone\Talabat.APIs\bin\Debug\net8.0\Stripe.net.dll
+E:\Repos\Projects\Talabat-Clone\Talabat.APIs\obj\Debug\net8.0\Talabat.APIs.sourcelink.json

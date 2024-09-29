@@ -10,3 +10,4 @@ E:\Repos\Projects\Talabat-Clone\Talabat.Core\obj\Debug\net8.0\refint\Talabat.Cor
 E:\Repos\Projects\Talabat-Clone\Talabat.Core\obj\Debug\net8.0\Talabat.Core.pdb
 E:\Repos\Projects\Talabat-Clone\Talabat.Core\obj\Debug\net8.0\ref\Talabat.Core.dll
 E:\Repos\Projects\Talabat-Clone\Talabat.Core\obj\Debug\net8.0\Talabat.Core.csproj.AssemblyReference.cache
+E:\Repos\Projects\Talabat-Clone\Talabat.Core\obj\Debug\net8.0\Talabat.Core.sourcelink.json

@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talabat.AdminDashboard.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Talabat.AdminDashboard.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\eeda5948-bc10-489b-8764-51df767b52fdpexels-eprism-studio-335257.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\eeda5948-bc10-489b-8764-51df767b52fdpexels-eprism-studio-335257.jpg"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Repos\\Projects\\Talabat-Clone\\Talabat.AdminDashboard.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Talabat.AdminDashboard.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Talabat.AdminDashboard.MVC.props",
+      "PackagePath": "build\\Talabat.AdminDashboard.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Talabat.AdminDashboard.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Talabat.AdminDashboard.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Talabat.AdminDashboard.MVC.props",
+      "PackagePath": "buildTransitive\\Talabat.AdminDashboard.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
