@@ -96,6 +96,10 @@ http://localhost:5290
 ## Demo Video
 
 
+
+https://github.com/user-attachments/assets/5c8ac295-bf28-45f0-84ac-eedead7ccec2
+
+
 ## Future Enhancements
 - **User Management**: Add user roles and permissions for finer access control.
 - **Notification System**: Implement a real-time notification system for order updates.
